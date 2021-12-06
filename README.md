@@ -1,6 +1,5 @@
 # IVA-Laboratory
 
-
 ### IVA - Image and Video Analytics
 
 
